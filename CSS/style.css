@@ -1,0 +1,40 @@
+
+
+	   #div1{
+			background-color: green;
+		}
+
+		#div2{
+			background-color: yellow;
+
+		}
+
+		#div3{
+			background-color: red;
+
+		}
+
+		#div4{
+			background-color: orange;
+
+		}
+
+		#div1, #div2, #div3, #div4 {border: dashed;
+
+		}
+
+		h1{  
+			color: red;
+
+		}
+
+		#rasheedlist{
+			color:blue;
+
+		}
+
+		.rasheedlist{
+			text-decoration: underline;
+		}
+
+	
