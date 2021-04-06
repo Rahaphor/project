@@ -1,0 +1,15 @@
+#parent{
+    border: solid blue; 
+    display: flex;
+    flex-direction: column;
+}
+
+.child {
+    border: solid white;
+    width: 600px;
+    height: 600px;
+    background-color: blue;
+    
+    
+
+}

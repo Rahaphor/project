@@ -1,0 +1,27 @@
+.container{
+    width: 30s;
+    height: fit-content;
+    transition: width 3s;
+}
+
+
+
+
+@keyframes stretch {
+    0%{
+        width: 100px;
+    }
+    100%{
+        width: 200px;
+    }
+}
+
+@keyframes stretch2 {
+    0%{
+        width: 100px;  
+    }
+    100%{
+        width: 200px;
+    }
+
+}

@@ -1,0 +1,46 @@
+<html>
+<head>
+    <style>
+        .child-one{
+        border: solid blue; 
+        height: 50px;
+        width: 125px;   
+        color: red;
+        font-weight: bold;
+        font-size: 20px;
+        text-align: center;
+        }
+        .menu {
+            position: absolute;
+            display: flex;
+            height:200px;
+            width: 100px;
+            justify-content: space-evenly;
+            animation-name: drive;
+            animation-duration: 10s;
+            animation-iteration-count: infinite;
+        }
+        @keyframes drive{
+        from{
+            height:0px;
+            width: 500px;
+        }
+        to{
+            height: 0px;
+            width: 100%;
+        }
+}
+    </style>
+
+<body>
+    <div class="menu">
+        <div class="child-one"> home</div>
+        <div class="child-one"> support</div>
+        <div class="child-one"> products</div>
+        <div class="child-one"> Service</div>
+    </div>
+
+</body>
+</head>
+
+</html>
