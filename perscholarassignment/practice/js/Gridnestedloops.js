@@ -1,4 +1,4 @@
-/*let value =1 ;
+let value =1 ;
 
 for (let row = 1; row <= 4; row++){
     
@@ -12,7 +12,7 @@ for (let row = 1; row <= 4; row++){
     }
     console.log();
 
-}*/
+}
 
 let value = 1;
 let manyRow = 6;

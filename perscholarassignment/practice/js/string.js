@@ -7,7 +7,8 @@ let lname= 'Smith'
 fname.toLowerCase()
 fname.concat(lname)
 fname.indexOf('o')
-fname.lastIndexOf()*/
+fname.lastIndexOf()
+*/
 
 /*let fname = 'Rasheed'
 let lname = 'Afolabi'
@@ -37,7 +38,7 @@ console.log(fname.charAt(4))*/
 
  
 
- let sentence = 'he is trying his best'
+ /*let sentence = 'he is trying his best'
  let vowelCapture = 'aeiou'
  let numOfVowel = 0
  let newSent = sentence.toLowerCase();
@@ -53,11 +54,14 @@ console.log(fname.charAt(4))*/
      }
 
  }
- console.log(' vowelCapture ' + numOfVowel)
+ console.log(' vowelCapture ' + numOfVowel)*/
 
 
 
 
 
 
- 
+let Addy = '280 park hill'
+
+let buildingNum = Addy.slice(2,5).trim()
+console.log(buildingNum)

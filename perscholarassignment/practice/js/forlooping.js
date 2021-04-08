@@ -1,12 +1,12 @@
 let start = 1;
-/*let end = 30;
+let end = 30;
 
 for(let counter = start; counter <= 30; counter++){
     console.log(counter + ' my name is rasheed')
 
 }
 
-console.log('how are you today')*/
+console.log('how are you today')
 
 //intialiizer or starter or starting point
 //condition for when your loop should end
@@ -54,7 +54,7 @@ for(let c = 0; c < country.length; c++){
     console.log(country[c]);
 }*/
 
-let sum = 1
+/*let sum = 1
 let sum1 = 20
 var total = 0
 
@@ -62,4 +62,4 @@ for(let sum= 1; sum<= 20; sum++){
     
     total= total + sum
 }
-console.log(' give me the total of sum ' + total)
+console.log(' give me the total of sum ' + total)*/
