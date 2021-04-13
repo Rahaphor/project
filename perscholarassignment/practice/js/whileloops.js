@@ -1,4 +1,4 @@
-let num1=1;
+let num1= 1;
 
 while (num1 <= 20){
     if(num1 % 5 == 0 && num1 % 3 == 0) {
